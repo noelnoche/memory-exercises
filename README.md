@@ -4,7 +4,7 @@ Three Memory Exercises
 
 Description
 ---
-Three Memory Excercises consists of three tile-based games of progressing difficulty:  
+Three Memory Excercises consists of three tile-based games of progressing difficulty aimed at testing the player's focus.  
 
 1. Matching &mdash; Match two tiles with the same color and shape.
 2. Equals 24 &mdash; Match two tiles that add up to 24.
@@ -13,7 +13,7 @@ Three Memory Excercises consists of three tile-based games of progressing diffic
 
 Scoring
 ---
-For Matching and Sum 24 scores are caculated based on the following:  
+Matching and Sum 24 scores are caculated based on the following chart:  
 
 | Action                        | Points |
 |-------------------------------|:------:|
