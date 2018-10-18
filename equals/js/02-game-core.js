@@ -30,7 +30,7 @@
       ctx.fillStyle = '#fff';
       ctx.textAlign = 'center';
       ctx.font =  '28pt Squada One';
-      ctx.fillText('Equals 24', cw/2, ch/2 - 100);
+      ctx.fillText('a + b = 24', cw/2, ch/2 - 100);
       ctx.font =  '18pt Squada One';
       ctx.fillText('Click here to begin', cw/2, ch/2 - 30);
     };
