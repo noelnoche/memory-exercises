@@ -47,7 +47,7 @@ a {
 }
 
 #main{
-  display: table-cell;
+  display: table-row;
   vertical-align: middle;
 }
 
@@ -94,6 +94,20 @@ a {
 #canvas-box {
   display: table-cell;
   vertical-align: middle;
+}
+
+footer {
+  display: table-footer-group;
+  width: inherit;
+  color: #fff;
+  text-align: center;
+  background: tomato;
+}
+
+footer > p {
+  display: inline-block;
+  margin-right: 1rem;	
+  padding: 0.25rem 0;
 }
 
 @media screen and (min-width: 400px) {
