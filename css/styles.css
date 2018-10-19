@@ -12,11 +12,10 @@ html {
 }
 
 body{
-  background-color: #000;
-  overflow: hidden;
+  display: table;
   height: inherit;
   width: inherit;
-  display: table;
+  overflow: hidden;
   font-family: "Squada One", sans-serif;
   letter-spacing: 1px;
   background-color: #333;
