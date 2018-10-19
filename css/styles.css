@@ -17,6 +17,8 @@ body{
   height: inherit;
   width: inherit;
   display: table;
+  font-family: "Squada One", sans-serif;
+  letter-spacing: 1px;
   background-color: #333;
   background-image: url('../assets/bg_hex.png');
 }
@@ -72,9 +74,6 @@ a {
   margin: 0 auto;
   padding: 0;
   color: #fff;
-  font-family: "Squada One", sans-serif;
-  font-size: 1rem;
-  letter-spacing: 1px;
   text-align: center;
 }
 
