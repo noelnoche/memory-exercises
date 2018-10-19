@@ -52,11 +52,13 @@ a {
 }
 
 #game-area {
-  height: 400px;
-  width: 600px;
+  height: 600px;
+  width: 400px;
   margin: auto;
   background-color: #000;
   background-image: url('../assets/bg_game-area.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #nav {
