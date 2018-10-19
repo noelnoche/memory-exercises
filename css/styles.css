@@ -56,6 +56,7 @@ a {
   height: 438px;
   width: 292px;
   margin: auto;
+  margin-bottom: -58px;
   background-color: #000;
   background-image: url('../assets/bg_game-area.png');
   background-repeat: no-repeat;
