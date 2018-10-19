@@ -101,6 +101,7 @@ footer {
   display: table-footer-group;
   width: inherit;
   color: #fff;
+  font-size: 125%;
   text-align: center;
 }
 
