@@ -52,8 +52,8 @@ a {
 }
 
 #game-area {
-  height: 600px;
-  width: 400px;
+  height: 438px;
+  width: 292px;
   margin: auto;
   background-color: #000;
   background-image: url('../assets/bg_game-area.png');
@@ -98,8 +98,8 @@ a {
 
 @media screen and (min-width: 400px) {
   #game-area {
-    height: 37.5rem;
-    width: 25rem;
+    height: 600px;
+    width: 400px;
   }
   
   #game-list {
