@@ -4,8 +4,13 @@ Three Memory Exercises
 
 Description
 ---
-Three Memory Excercises consists of three tile-based games of progressing difficulty aimed at testing the player's focus.  
+Three Memory Excercises consists of three tile-based games of progressing difficulty aimed at testing the player's focus.
 
+This project is a study on JavaScript (ECMA5) scopes and how they can used to make code modular. This is done through the use of **[closures](https://en.wikipedia.org/wiki/Closure_(computer_programming)** patterns. Making code modular makes it easier to maintain, expand and debug. 
+
+
+How To Play
+---
 1. Matching &mdash; Match two tiles with the same color and shape.
 2. Equals 24 &mdash; Match two tiles that add up to 24.
 3. Count Up &mdash; Flip all tiles in sequence.
