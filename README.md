@@ -6,7 +6,7 @@ Description
 ---
 Three Memory Excercises consists of three tile-based games of progressing difficulty aimed at testing the player's focus.
 
-This project is a study on JavaScript (ECMA5) scopes and how they can used to make code modular. This is done through the use of **[closures](https://en.wikipedia.org/wiki/Closure_(computer_programming)** patterns. Making code modular makes it easier to maintain, expand and debug. 
+This project is a study on JavaScript (ECMA5) scopes and how they can used to make code modular. This is done through the use of **[closures](https://en.wikipedia.org/wiki/Closure_(computer_programming))** patterns. Making code modular makes it easier to maintain, expand and debug. 
 
 
 How To Play
